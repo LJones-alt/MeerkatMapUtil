@@ -1,0 +1,1 @@
+## Meerkat Robot bin location builder
